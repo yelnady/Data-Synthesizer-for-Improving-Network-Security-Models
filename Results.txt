@@ -1,0 +1,16 @@
+Real Data:  test_accuracy = 0.7834 
+-> transformer_all_V3_new:  test_accuracy = 0.72970  
+
+
+
+-> transformer_allV3_cat: test_accuracy: 0.6538 train_mse = 0.000201
+-> Out_transformer_allV3_disc:  (Classify each point as Fake or Real, Using npz_transformer_allV3.npz and version_19/checkpoints/epoch=399-step=76799.ckpt)
+-> transformer_allV3_disc_token: We will finetune and see if we can predict this point is end token or not
+
+
+------------------------->>Important<<-----------------------
+- If we didn't do the permute in training, we get a problem with batch_first, and the results doesn't improve as much as we need.
+- THE PROBLEM WAS IN (POSITIONAL ENCODING) is NOT working correctly when we feed batch_first = True, so we need to change it to match the dimensions
+
+To Do: 
+-> We need to produce "Test TST Data" from "transformer_all_V3" since it's used in 'Out_transformer_allV3_disc', but accidentally deleted

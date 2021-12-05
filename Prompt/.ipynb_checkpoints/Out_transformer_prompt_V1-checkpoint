@@ -1,0 +1,25 @@
+cuda:1
+total    : 50962169856
+free     : 41361539072
+used     : 9600630784
+X Features
+Feature: 1  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 2  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 3  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 4  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 5  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 6  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 7  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 8  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 9  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+
+Y Features
+Feature: 1  -- Normalization: None  -- gen_flag: False  -- Dim: 4
+total    : 50962169856
+free     : 41361539072
+used     : 9600630784
+cuda:1
+--------------------------Epoch1-----------------------------
+torch.Size([1, 100, 512]) torch.Size([400, 100, 512])
+/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/loss.py:528: UserWarning: Using a target size (torch.Size([100, 400, 9])) that is different to the input size (torch.Size([100, 401, 9])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)

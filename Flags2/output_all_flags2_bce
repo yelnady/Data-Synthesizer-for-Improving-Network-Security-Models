@@ -1,0 +1,7221 @@
+cuda:1
+total    : 50962169856
+free     : 50958106624
+used     : 4063232
+X Features
+Feature: 1  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 2  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 3  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 4  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 5  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 6  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 7  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 8  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 9  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+
+Y Features
+Feature: 1  -- Normalization: None  -- gen_flag: False  -- Dim: 4
+Number of parameters is  12635659
+--------------------------Epoch1-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 1 Loss is 0.22100244236537833
+Epoch 1 - Time (in minutes) is 0:05:18.021543
+--------------------------Epoch2-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 2 Loss is 0.1950739445834378
+Epoch 2 - Time (in minutes) is 0:05:18.884748
+--------------------------Epoch3-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 3 Loss is 0.1778176028744068
+Epoch 3 - Time (in minutes) is 0:05:19.444458
+--------------------------Epoch4-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 4 Loss is 0.16632416426551108
+Epoch 4 - Time (in minutes) is 0:05:19.062200
+--------------------------Epoch5-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 5 Loss is 0.15871033088054531
+Epoch 5 - Time (in minutes) is 0:05:19.327433
+--------------------------Epoch6-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 6 Loss is 0.15428965144297657
+Epoch 6 - Time (in minutes) is 0:05:19.748764
+--------------------------Epoch7-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 7 Loss is 0.1504138656204043
+Epoch 7 - Time (in minutes) is 0:05:19.103257
+--------------------------Epoch8-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 8 Loss is 0.14787220585774752
+Epoch 8 - Time (in minutes) is 0:05:19.140479
+--------------------------Epoch9-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 9 Loss is 0.1457103521410936
+Epoch 9 - Time (in minutes) is 0:05:19.087283
+--------------------------Epoch10-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 10 Loss is 0.14328789309738507
+Epoch 10 - Time (in minutes) is 0:05:18.893248
+--------------------------Epoch11-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 11 Loss is 0.14106234542879403
+Epoch 11 - Time (in minutes) is 0:05:19.114171
+--------------------------Epoch12-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 12 Loss is 0.13892475923681571
+Epoch 12 - Time (in minutes) is 0:05:19.229645
+--------------------------Epoch13-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 13 Loss is 0.13677181934609134
+Epoch 13 - Time (in minutes) is 0:05:19.367908
+--------------------------Epoch14-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 14 Loss is 0.13497361159012988
+Epoch 14 - Time (in minutes) is 0:05:19.032022
+--------------------------Epoch15-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 15 Loss is 0.13292307987127427
+Epoch 15 - Time (in minutes) is 0:05:19.303976
+--------------------------Epoch16-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 16 Loss is 0.13133246697047177
+Epoch 16 - Time (in minutes) is 0:05:19.079081
+--------------------------Epoch17-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 17 Loss is 0.12938924960645976
+Epoch 17 - Time (in minutes) is 0:05:19.042835
+--------------------------Epoch18-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 18 Loss is 0.1277004269505638
+Epoch 18 - Time (in minutes) is 0:05:19.225628
+--------------------------Epoch19-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 19 Loss is 0.12628039568662644
+Epoch 19 - Time (in minutes) is 0:05:19.263185
+--------------------------Epoch20-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 20 Loss is 0.12473717881183999
+Epoch 20 - Time (in minutes) is 0:05:19.723873
+--------------------------Epoch21-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 21 Loss is 0.1234057763530538
+Epoch 21 - Time (in minutes) is 0:05:19.839949
+--------------------------Epoch22-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 22 Loss is 0.12186483808007895
+Epoch 22 - Time (in minutes) is 0:05:19.546158
+--------------------------Epoch23-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 23 Loss is 0.12077071302466923
+Epoch 23 - Time (in minutes) is 0:05:19.699047
+--------------------------Epoch24-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 24 Loss is 0.11980534557228774
+Epoch 24 - Time (in minutes) is 0:05:19.809713
+--------------------------Epoch25-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 25 Loss is 0.11852357372933743
+Epoch 25 - Time (in minutes) is 0:05:19.880260
+--------------------------Epoch26-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 26 Loss is 0.11736695460634294
+Epoch 26 - Time (in minutes) is 0:05:19.731999
+--------------------------Epoch27-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 27 Loss is 0.11617027942846024
+Epoch 27 - Time (in minutes) is 0:05:19.675069
+--------------------------Epoch28-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 28 Loss is 0.11522505525864807
+Epoch 28 - Time (in minutes) is 0:05:19.921340
+--------------------------Epoch29-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 29 Loss is 0.11415520949301376
+Epoch 29 - Time (in minutes) is 0:05:20.019696
+--------------------------Epoch30-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 30 Loss is 0.11346336706401476
+Epoch 30 - Time (in minutes) is 0:05:19.753852
+--------------------------Epoch31-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 31 Loss is 0.11244412990761739
+Epoch 31 - Time (in minutes) is 0:05:20.010282
+--------------------------Epoch32-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 32 Loss is 0.11149645461853033
+Epoch 32 - Time (in minutes) is 0:05:19.191184
+--------------------------Epoch33-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 33 Loss is 0.1108346788614404
+Epoch 33 - Time (in minutes) is 0:05:19.664805
+--------------------------Epoch34-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 34 Loss is 0.10967129964649287
+Epoch 34 - Time (in minutes) is 0:05:19.681044
+--------------------------Epoch35-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 35 Loss is 0.1090932135196293
+Epoch 35 - Time (in minutes) is 0:05:19.228468
+--------------------------Epoch36-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 36 Loss is 0.10823771035164789
+Epoch 36 - Time (in minutes) is 0:05:19.890676
+--------------------------Epoch37-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 37 Loss is 0.1075230637796564
+Epoch 37 - Time (in minutes) is 0:05:19.713092
+--------------------------Epoch38-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 38 Loss is 0.10692518573570875
+Epoch 38 - Time (in minutes) is 0:05:19.417404
+--------------------------Epoch39-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 39 Loss is 0.10591631745006524
+Epoch 39 - Time (in minutes) is 0:05:19.899607
+--------------------------Epoch40-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 40 Loss is 0.1053725914871381
+Epoch 40 - Time (in minutes) is 0:05:20.024903
+--------------------------Epoch41-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 41 Loss is 0.1046010982659128
+Epoch 41 - Time (in minutes) is 0:05:19.886163
+--------------------------Epoch42-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 42 Loss is 0.10342726460079742
+Epoch 42 - Time (in minutes) is 0:05:19.978496
+--------------------------Epoch43-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 43 Loss is 0.10300471790475783
+Epoch 43 - Time (in minutes) is 0:05:19.277046
+--------------------------Epoch44-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 44 Loss is 0.10242544504162533
+Epoch 44 - Time (in minutes) is 0:05:19.424864
+--------------------------Epoch45-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 45 Loss is 0.10124444316317832
+Epoch 45 - Time (in minutes) is 0:05:19.473816
+--------------------------Epoch46-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 46 Loss is 0.10087256555268967
+Epoch 46 - Time (in minutes) is 0:05:19.367773
+--------------------------Epoch47-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 47 Loss is 0.1001840984412268
+Epoch 47 - Time (in minutes) is 0:05:19.788152
+--------------------------Epoch48-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 48 Loss is 0.0991944725704349
+Epoch 48 - Time (in minutes) is 0:05:19.751227
+--------------------------Epoch49-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 49 Loss is 0.09856296301959387
+Epoch 49 - Time (in minutes) is 0:05:19.658853
+--------------------------Epoch50-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 50 Loss is 0.09838337895332598
+Epoch 50 - Time (in minutes) is 0:05:20.044588
+--------------------------Epoch51-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 51 Loss is 0.09721223830787185
+Epoch 51 - Time (in minutes) is 0:05:19.612337
+--------------------------Epoch52-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 52 Loss is 0.09684616050202083
+Epoch 52 - Time (in minutes) is 0:05:19.724264
+--------------------------Epoch53-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 53 Loss is 0.09604893459701071
+Epoch 53 - Time (in minutes) is 0:05:19.501481
+--------------------------Epoch54-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 54 Loss is 0.09531734869176266
+Epoch 54 - Time (in minutes) is 0:05:20.087359
+--------------------------Epoch55-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 55 Loss is 0.09452413360472599
+Epoch 55 - Time (in minutes) is 0:05:19.229241
+--------------------------Epoch56-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 56 Loss is 0.09453228209532943
+Epoch 56 - Time (in minutes) is 0:05:20.113031
+--------------------------Epoch57-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 57 Loss is 0.09378178350481332
+Epoch 57 - Time (in minutes) is 0:05:19.212708
+--------------------------Epoch58-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 58 Loss is 0.09328950050901744
+Epoch 58 - Time (in minutes) is 0:05:20.875160
+--------------------------Epoch59-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 59 Loss is 0.09257889917375994
+Epoch 59 - Time (in minutes) is 0:05:19.838070
+--------------------------Epoch60-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 60 Loss is 0.09174499205904069
+Epoch 60 - Time (in minutes) is 0:05:20.141910
+--------------------------Epoch61-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 61 Loss is 0.09075760297915515
+Epoch 61 - Time (in minutes) is 0:05:20.713750
+--------------------------Epoch62-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 62 Loss is 0.09087463588106866
+Epoch 62 - Time (in minutes) is 0:05:20.512794
+--------------------------Epoch63-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 63 Loss is 0.0905465429076572
+Epoch 63 - Time (in minutes) is 0:05:20.675740
+--------------------------Epoch64-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 64 Loss is 0.08966139449305784
+Epoch 64 - Time (in minutes) is 0:05:20.241452
+--------------------------Epoch65-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 65 Loss is 0.08916338932475233
+Epoch 65 - Time (in minutes) is 0:05:20.002495
+--------------------------Epoch66-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 66 Loss is 0.08844690989532501
+Epoch 66 - Time (in minutes) is 0:05:20.320348
+--------------------------Epoch67-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 67 Loss is 0.08820399987736559
+Epoch 67 - Time (in minutes) is 0:05:19.501829
+--------------------------Epoch68-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 68 Loss is 0.08767190707567471
+Epoch 68 - Time (in minutes) is 0:05:20.064009
+--------------------------Epoch69-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 69 Loss is 0.08726506162605255
+Epoch 69 - Time (in minutes) is 0:05:20.258884
+--------------------------Epoch70-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 70 Loss is 0.08686094554323776
+Epoch 70 - Time (in minutes) is 0:05:19.919950
+--------------------------Epoch71-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 71 Loss is 0.08623733825835528
+Epoch 71 - Time (in minutes) is 0:05:20.180890
+--------------------------Epoch72-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 72 Loss is 0.08580264680428443
+Epoch 72 - Time (in minutes) is 0:05:20.087010
+--------------------------Epoch73-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 73 Loss is 0.0857672026733947
+Epoch 73 - Time (in minutes) is 0:05:20.942434
+--------------------------Epoch74-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 74 Loss is 0.08511682666984259
+Epoch 74 - Time (in minutes) is 0:05:21.472496
+--------------------------Epoch75-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 75 Loss is 0.08470389839578298
+Epoch 75 - Time (in minutes) is 0:05:20.454637
+--------------------------Epoch76-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 76 Loss is 0.08431848545187438
+Epoch 76 - Time (in minutes) is 0:05:20.365074
+--------------------------Epoch77-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 77 Loss is 0.08369001386309761
+Epoch 77 - Time (in minutes) is 0:05:19.588828
+--------------------------Epoch78-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 78 Loss is 0.08333407229944771
+Epoch 78 - Time (in minutes) is 0:05:20.351092
+--------------------------Epoch79-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 79 Loss is 0.08290371398131052
+Epoch 79 - Time (in minutes) is 0:05:19.754017
+--------------------------Epoch80-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 80 Loss is 0.08226538342880267
+Epoch 80 - Time (in minutes) is 0:05:20.398583
+--------------------------Epoch81-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 81 Loss is 0.08170775485778946
+Epoch 81 - Time (in minutes) is 0:05:20.944512
+--------------------------Epoch82-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 82 Loss is 0.08155701429723135
+Epoch 82 - Time (in minutes) is 0:05:21.689897
+--------------------------Epoch83-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 83 Loss is 0.08149391157077808
+Epoch 83 - Time (in minutes) is 0:05:20.128589
+--------------------------Epoch84-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 84 Loss is 0.08105464331757009
+Epoch 84 - Time (in minutes) is 0:05:20.022282
+--------------------------Epoch85-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 85 Loss is 0.0802708457936259
+Epoch 85 - Time (in minutes) is 0:05:19.765937
+--------------------------Epoch86-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 86 Loss is 0.08034847681136692
+Epoch 86 - Time (in minutes) is 0:05:20.486517
+--------------------------Epoch87-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 87 Loss is 0.0798874824313946
+Epoch 87 - Time (in minutes) is 0:05:20.956116
+--------------------------Epoch88-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 88 Loss is 0.07977682989504602
+Epoch 88 - Time (in minutes) is 0:05:20.872446
+--------------------------Epoch89-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 89 Loss is 0.07916475060621118
+Epoch 89 - Time (in minutes) is 0:05:20.376211
+--------------------------Epoch90-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 90 Loss is 0.07874588006072575
+Epoch 90 - Time (in minutes) is 0:05:20.332942
+--------------------------Epoch91-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 91 Loss is 0.0782917935376853
+Epoch 91 - Time (in minutes) is 0:05:20.104106
+--------------------------Epoch92-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 92 Loss is 0.07801088272453913
+Epoch 92 - Time (in minutes) is 0:05:20.747470
+--------------------------Epoch93-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 93 Loss is 0.07753387892168331
+Epoch 93 - Time (in minutes) is 0:05:20.159506
+--------------------------Epoch94-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 94 Loss is 0.07705656230644463
+Epoch 94 - Time (in minutes) is 0:05:20.507899
+--------------------------Epoch95-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 95 Loss is 0.07743674997800316
+Epoch 95 - Time (in minutes) is 0:05:20.185710
+--------------------------Epoch96-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 96 Loss is 0.07702706187866093
+Epoch 96 - Time (in minutes) is 0:05:20.426034
+--------------------------Epoch97-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 97 Loss is 0.07645306542418362
+Epoch 97 - Time (in minutes) is 0:05:20.058368
+--------------------------Epoch98-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 98 Loss is 0.0761744613789655
+Epoch 98 - Time (in minutes) is 0:05:19.896265
+--------------------------Epoch99-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 99 Loss is 0.07597434492477405
+Epoch 99 - Time (in minutes) is 0:05:20.064340
+--------------------------Epoch100-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 100 Loss is 0.07555437296434166
+Epoch 100 - Time (in minutes) is 0:05:20.791090
+--------------------------Epoch101-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 101 Loss is 0.07524146276459195
+Epoch 101 - Time (in minutes) is 0:05:21.329227
+--------------------------Epoch102-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 102 Loss is 0.07478774923806876
+Epoch 102 - Time (in minutes) is 0:05:21.173132
+--------------------------Epoch103-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 103 Loss is 0.07442817725484667
+Epoch 103 - Time (in minutes) is 0:05:22.013607
+--------------------------Epoch104-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 104 Loss is 0.07425469721064848
+Epoch 104 - Time (in minutes) is 0:05:20.968511
+--------------------------Epoch105-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 105 Loss is 0.07352204944183624
+Epoch 105 - Time (in minutes) is 0:05:21.098945
+--------------------------Epoch106-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 106 Loss is 0.0737562861025723
+Epoch 106 - Time (in minutes) is 0:05:21.200682
+--------------------------Epoch107-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 107 Loss is 0.07336554601788521
+Epoch 107 - Time (in minutes) is 0:05:20.820657
+--------------------------Epoch108-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 108 Loss is 0.07335941059624447
+Epoch 108 - Time (in minutes) is 0:05:20.990811
+--------------------------Epoch109-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 109 Loss is 0.07309713110425115
+Epoch 109 - Time (in minutes) is 0:05:20.878036
+--------------------------Epoch110-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 110 Loss is 0.07253477031401559
+Epoch 110 - Time (in minutes) is 0:05:20.574896
+--------------------------Epoch111-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 111 Loss is 0.0721543378056654
+Epoch 111 - Time (in minutes) is 0:05:21.307899
+--------------------------Epoch112-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 112 Loss is 0.07240006117746721
+Epoch 112 - Time (in minutes) is 0:05:21.813916
+--------------------------Epoch113-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 113 Loss is 0.07162929049212169
+Epoch 113 - Time (in minutes) is 0:05:28.208180
+--------------------------Epoch114-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 114 Loss is 0.07182070560802042
+Epoch 114 - Time (in minutes) is 0:05:46.659654
+--------------------------Epoch115-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 115 Loss is 0.07140452805784793
+Epoch 115 - Time (in minutes) is 0:05:47.489105
+--------------------------Epoch116-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 116 Loss is 0.07106447623056523
+Epoch 116 - Time (in minutes) is 0:05:44.695471
+--------------------------Epoch117-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 117 Loss is 0.07044188217107766
+Epoch 117 - Time (in minutes) is 0:05:42.006955
+--------------------------Epoch118-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 118 Loss is 0.07077546876922153
+Epoch 118 - Time (in minutes) is 0:06:25.392630
+--------------------------Epoch119-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 119 Loss is 0.07029468179041264
+Epoch 119 - Time (in minutes) is 0:09:08.843125
+--------------------------Epoch120-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 120 Loss is 0.07011357066678066
+Epoch 120 - Time (in minutes) is 0:11:14.047537
+--------------------------Epoch121-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 121 Loss is 0.06966058057215478
+Epoch 121 - Time (in minutes) is 0:11:13.643085
+--------------------------Epoch122-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 122 Loss is 0.06948295873559378
+Epoch 122 - Time (in minutes) is 0:11:16.501176
+--------------------------Epoch123-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 123 Loss is 0.06930496622534359
+Epoch 123 - Time (in minutes) is 0:11:15.411056
+--------------------------Epoch124-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 124 Loss is 0.06962987662238233
+Epoch 124 - Time (in minutes) is 0:11:12.833052
+--------------------------Epoch125-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 125 Loss is 0.06864829342447075
+Epoch 125 - Time (in minutes) is 0:11:10.226599
+--------------------------Epoch126-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 126 Loss is 0.06846374485130403
+Epoch 126 - Time (in minutes) is 0:11:10.002375
+--------------------------Epoch127-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 127 Loss is 0.06846727084100636
+Epoch 127 - Time (in minutes) is 0:11:10.293431
+--------------------------Epoch128-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 128 Loss is 0.06807507346658145
+Epoch 128 - Time (in minutes) is 0:11:08.206799
+--------------------------Epoch129-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 129 Loss is 0.06821057823748371
+Epoch 129 - Time (in minutes) is 0:11:10.367631
+--------------------------Epoch130-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 130 Loss is 0.06758988402735173
+Epoch 130 - Time (in minutes) is 0:11:10.715594
+--------------------------Epoch131-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 131 Loss is 0.0672217068329356
+Epoch 131 - Time (in minutes) is 0:05:46.669309
+--------------------------Epoch132-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 132 Loss is 0.0668293685207959
+Epoch 132 - Time (in minutes) is 0:05:20.832757
+--------------------------Epoch133-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 133 Loss is 0.06682846959607273
+Epoch 133 - Time (in minutes) is 0:05:20.694589
+--------------------------Epoch134-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 134 Loss is 0.06718819536317408
+Epoch 134 - Time (in minutes) is 0:05:20.482369
+--------------------------Epoch135-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 135 Loss is 0.06635255368998627
+Epoch 135 - Time (in minutes) is 0:05:20.531661
+--------------------------Epoch136-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 136 Loss is 0.066464612272635
+Epoch 136 - Time (in minutes) is 0:05:21.671711
+--------------------------Epoch137-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 137 Loss is 0.06640304767715385
+Epoch 137 - Time (in minutes) is 0:05:22.065947
+--------------------------Epoch138-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 138 Loss is 0.0661169702223703
+Epoch 138 - Time (in minutes) is 0:05:21.069368
+--------------------------Epoch139-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 139 Loss is 0.06580645553524198
+Epoch 139 - Time (in minutes) is 0:05:21.207292
+--------------------------Epoch140-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 140 Loss is 0.06585572617116317
+Epoch 140 - Time (in minutes) is 0:05:21.646532
+--------------------------Epoch141-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 141 Loss is 0.06555612166138257
+Epoch 141 - Time (in minutes) is 0:05:20.621599
+--------------------------Epoch142-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 142 Loss is 0.06506259707746163
+Epoch 142 - Time (in minutes) is 0:05:20.693094
+--------------------------Epoch143-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 143 Loss is 0.06496020013016034
+Epoch 143 - Time (in minutes) is 0:05:20.841957
+--------------------------Epoch144-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 144 Loss is 0.06484119815179724
+Epoch 144 - Time (in minutes) is 0:05:21.072349
+--------------------------Epoch145-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 145 Loss is 0.06443897949324714
+Epoch 145 - Time (in minutes) is 0:05:21.113126
+--------------------------Epoch146-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 146 Loss is 0.06433025499671892
+Epoch 146 - Time (in minutes) is 0:05:20.095556
+--------------------------Epoch147-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 147 Loss is 0.0641690392948054
+Epoch 147 - Time (in minutes) is 0:05:20.565747
+--------------------------Epoch148-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 148 Loss is 0.06440046133071768
+Epoch 148 - Time (in minutes) is 0:05:20.433187
+--------------------------Epoch149-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 149 Loss is 0.06400519987823916
+Epoch 149 - Time (in minutes) is 0:05:20.510803
+--------------------------Epoch150-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 150 Loss is 0.06426865708789015
+Epoch 150 - Time (in minutes) is 0:05:20.790974
+--------------------------Epoch151-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 151 Loss is 0.06381057550509771
+Epoch 151 - Time (in minutes) is 0:05:20.460534
+--------------------------Epoch152-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 152 Loss is 0.06351937754871019
+Epoch 152 - Time (in minutes) is 0:05:21.166709
+--------------------------Epoch153-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 153 Loss is 0.06326971075503655
+Epoch 153 - Time (in minutes) is 0:05:21.189146
+--------------------------Epoch154-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 154 Loss is 0.06301770802416833
+Epoch 154 - Time (in minutes) is 0:05:20.463131
+--------------------------Epoch155-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 155 Loss is 0.06327483680074901
+Epoch 155 - Time (in minutes) is 0:05:21.700800
+--------------------------Epoch156-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 156 Loss is 0.0625779598975688
+Epoch 156 - Time (in minutes) is 0:05:21.056802
+--------------------------Epoch157-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 157 Loss is 0.0623200410818742
+Epoch 157 - Time (in minutes) is 0:05:21.242501
+--------------------------Epoch158-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 158 Loss is 0.06240291360497864
+Epoch 158 - Time (in minutes) is 0:05:20.460555
+--------------------------Epoch159-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 159 Loss is 0.06226567137085534
+Epoch 159 - Time (in minutes) is 0:05:20.590796
+--------------------------Epoch160-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 160 Loss is 0.06240107947899625
+Epoch 160 - Time (in minutes) is 0:05:20.204654
+--------------------------Epoch161-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 161 Loss is 0.06194236160688151
+Epoch 161 - Time (in minutes) is 0:05:20.361541
+--------------------------Epoch162-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 162 Loss is 0.06175678518959899
+Epoch 162 - Time (in minutes) is 0:05:21.148428
+--------------------------Epoch163-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 163 Loss is 0.061878093220050036
+Epoch 163 - Time (in minutes) is 0:05:21.940589
+--------------------------Epoch164-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 164 Loss is 0.06138435421523705
+Epoch 164 - Time (in minutes) is 0:05:20.725451
+--------------------------Epoch165-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 165 Loss is 0.06155472938823544
+Epoch 165 - Time (in minutes) is 0:05:21.852444
+--------------------------Epoch166-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 166 Loss is 0.061323339073291794
+Epoch 166 - Time (in minutes) is 0:05:20.634072
+--------------------------Epoch167-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 167 Loss is 0.06109812392615804
+Epoch 167 - Time (in minutes) is 0:05:20.751476
+--------------------------Epoch168-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 168 Loss is 0.060432710108998554
+Epoch 168 - Time (in minutes) is 0:05:22.017726
+--------------------------Epoch169-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 169 Loss is 0.060609675712542596
+Epoch 169 - Time (in minutes) is 0:05:20.839551
+--------------------------Epoch170-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 170 Loss is 0.060932365103679546
+Epoch 170 - Time (in minutes) is 0:05:21.083446
+--------------------------Epoch171-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 171 Loss is 0.060664302953123264
+Epoch 171 - Time (in minutes) is 0:05:21.230244
+--------------------------Epoch172-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 172 Loss is 0.06076772144319965
+Epoch 172 - Time (in minutes) is 0:05:20.514752
+--------------------------Epoch173-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 173 Loss is 0.0602322736231525
+Epoch 173 - Time (in minutes) is 0:05:20.954662
+--------------------------Epoch174-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 174 Loss is 0.05999793918206801
+Epoch 174 - Time (in minutes) is 0:05:20.877360
+--------------------------Epoch175-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 175 Loss is 0.05998680740107898
+Epoch 175 - Time (in minutes) is 0:05:20.490142
+--------------------------Epoch176-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 176 Loss is 0.05967864037241811
+Epoch 176 - Time (in minutes) is 0:05:20.674886
+--------------------------Epoch177-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 177 Loss is 0.059456687432780764
+Epoch 177 - Time (in minutes) is 0:05:20.234600
+--------------------------Epoch178-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 178 Loss is 0.05944237514502472
+Epoch 178 - Time (in minutes) is 0:05:20.376807
+--------------------------Epoch179-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 179 Loss is 0.05917400838989838
+Epoch 179 - Time (in minutes) is 0:05:20.369461
+--------------------------Epoch180-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 180 Loss is 0.05948016143410034
+Epoch 180 - Time (in minutes) is 0:05:21.321139
+--------------------------Epoch181-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 181 Loss is 0.05882786273274546
+Epoch 181 - Time (in minutes) is 0:05:21.020855
+--------------------------Epoch182-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 182 Loss is 0.05910722925966861
+Epoch 182 - Time (in minutes) is 0:05:21.103645
+--------------------------Epoch183-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 183 Loss is 0.059000915598148615
+Epoch 183 - Time (in minutes) is 0:05:21.097851
+--------------------------Epoch184-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 184 Loss is 0.058685979953193974
+Epoch 184 - Time (in minutes) is 0:05:21.408496
+--------------------------Epoch185-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 185 Loss is 0.05861755400116927
+Epoch 185 - Time (in minutes) is 0:05:21.452216
+--------------------------Epoch186-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 186 Loss is 0.05831978654160219
+Epoch 186 - Time (in minutes) is 0:05:22.363769
+--------------------------Epoch187-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 187 Loss is 0.05844824461668145
+Epoch 187 - Time (in minutes) is 0:05:21.815478
+--------------------------Epoch188-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 188 Loss is 0.05790247143629719
+Epoch 188 - Time (in minutes) is 0:05:21.563992
+--------------------------Epoch189-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 189 Loss is 0.05805793819717722
+Epoch 189 - Time (in minutes) is 0:05:20.865359
+--------------------------Epoch190-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 190 Loss is 0.05781680858310531
+Epoch 190 - Time (in minutes) is 0:05:21.194252
+--------------------------Epoch191-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 191 Loss is 0.057999920896163175
+Epoch 191 - Time (in minutes) is 0:05:20.961296
+--------------------------Epoch192-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 192 Loss is 0.057609830421754736
+Epoch 192 - Time (in minutes) is 0:05:20.611563
+--------------------------Epoch193-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 193 Loss is 0.05789267560527995
+Epoch 193 - Time (in minutes) is 0:06:24.824821
+--------------------------Epoch194-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 194 Loss is 0.057788917748561874
+Epoch 194 - Time (in minutes) is 0:11:13.878216
+--------------------------Epoch195-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 195 Loss is 0.056952000813546524
+Epoch 195 - Time (in minutes) is 0:11:12.605693
+--------------------------Epoch196-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 196 Loss is 0.05765518384675185
+Epoch 196 - Time (in minutes) is 0:11:15.052146
+--------------------------Epoch197-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 197 Loss is 0.05726167736148912
+Epoch 197 - Time (in minutes) is 0:11:14.521105
+--------------------------Epoch198-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 198 Loss is 0.057272793301472474
+Epoch 198 - Time (in minutes) is 0:11:11.935410
+--------------------------Epoch199-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 199 Loss is 0.05683808134369601
+Epoch 199 - Time (in minutes) is 0:11:13.936880
+--------------------------Epoch200-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 200 Loss is 0.05692281875442835
+Epoch 200 - Time (in minutes) is 0:11:13.219984
+--------------------------Epoch201-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 201 Loss is 0.056484089019933556
+Epoch 201 - Time (in minutes) is 0:11:12.435553
+--------------------------Epoch202-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 202 Loss is 0.05665283118392907
+Epoch 202 - Time (in minutes) is 0:11:08.472379
+--------------------------Epoch203-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 203 Loss is 0.056692446631933346
+Epoch 203 - Time (in minutes) is 0:11:10.160627
+--------------------------Epoch204-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 204 Loss is 0.05659292088030211
+Epoch 204 - Time (in minutes) is 0:11:10.117016
+--------------------------Epoch205-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 205 Loss is 0.056203125984547964
+Epoch 205 - Time (in minutes) is 0:11:10.060456
+--------------------------Epoch206-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 206 Loss is 0.05646662875474279
+Epoch 206 - Time (in minutes) is 0:05:22.823362
+--------------------------Epoch207-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 207 Loss is 0.05627598060550643
+Epoch 207 - Time (in minutes) is 0:05:20.412098
+--------------------------Epoch208-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 208 Loss is 0.05550269116373623
+Epoch 208 - Time (in minutes) is 0:05:20.814325
+--------------------------Epoch209-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 209 Loss is 0.05593938961917279
+Epoch 209 - Time (in minutes) is 0:05:20.525438
+--------------------------Epoch210-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 210 Loss is 0.05559724832282347
+Epoch 210 - Time (in minutes) is 0:05:20.721210
+--------------------------Epoch211-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 211 Loss is 0.05578639105546708
+Epoch 211 - Time (in minutes) is 0:05:20.835249
+--------------------------Epoch212-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 212 Loss is 0.055124736002652476
+Epoch 212 - Time (in minutes) is 0:05:21.519403
+--------------------------Epoch213-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 213 Loss is 0.05508545261923394
+Epoch 213 - Time (in minutes) is 0:05:21.046209
+--------------------------Epoch214-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 214 Loss is 0.05539143414181821
+Epoch 214 - Time (in minutes) is 0:05:20.674307
+--------------------------Epoch215-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 215 Loss is 0.05543775548245393
+Epoch 215 - Time (in minutes) is 0:05:20.414727
+--------------------------Epoch216-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 216 Loss is 0.054572048866086534
+Epoch 216 - Time (in minutes) is 0:05:21.100098
+--------------------------Epoch217-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 217 Loss is 0.05467344093702588
+Epoch 217 - Time (in minutes) is 0:05:20.093517
+--------------------------Epoch218-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 218 Loss is 0.05484780415259545
+Epoch 218 - Time (in minutes) is 0:05:20.345976
+--------------------------Epoch219-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 219 Loss is 0.05503322936204914
+Epoch 219 - Time (in minutes) is 0:05:20.315829
+--------------------------Epoch220-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 220 Loss is 0.05504578591074819
+Epoch 220 - Time (in minutes) is 0:05:20.565594
+--------------------------Epoch221-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 221 Loss is 0.05474923684511309
+Epoch 221 - Time (in minutes) is 0:05:20.709879
+--------------------------Epoch222-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 222 Loss is 0.054606980207114436
+Epoch 222 - Time (in minutes) is 0:05:20.504031
+--------------------------Epoch223-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 223 Loss is 0.05462372122588111
+Epoch 223 - Time (in minutes) is 0:05:20.591777
+--------------------------Epoch224-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 224 Loss is 0.05437770927312717
+Epoch 224 - Time (in minutes) is 0:05:20.750498
+--------------------------Epoch225-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 225 Loss is 0.05446333291094287
+Epoch 225 - Time (in minutes) is 0:05:20.713371
+--------------------------Epoch226-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 226 Loss is 0.05428173275895758
+Epoch 226 - Time (in minutes) is 0:05:20.733969
+--------------------------Epoch227-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 227 Loss is 0.0542184135882683
+Epoch 227 - Time (in minutes) is 0:05:19.957644
+--------------------------Epoch228-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 228 Loss is 0.053734790251340744
+Epoch 228 - Time (in minutes) is 0:05:20.940574
+--------------------------Epoch229-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 229 Loss is 0.053713870038783626
+Epoch 229 - Time (in minutes) is 0:05:20.343386
+--------------------------Epoch230-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 230 Loss is 0.05407703265645145
+Epoch 230 - Time (in minutes) is 0:05:20.358932
+--------------------------Epoch231-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 231 Loss is 0.05351275163733102
+Epoch 231 - Time (in minutes) is 0:05:20.369274
+--------------------------Epoch232-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 232 Loss is 0.053408481158754406
+Epoch 232 - Time (in minutes) is 0:05:20.834594
+--------------------------Epoch233-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 233 Loss is 0.05348024488566748
+Epoch 233 - Time (in minutes) is 0:05:20.507533
+--------------------------Epoch234-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 234 Loss is 0.05370589765701808
+Epoch 234 - Time (in minutes) is 0:05:19.963727
+--------------------------Epoch235-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 235 Loss is 0.05317838387746437
+Epoch 235 - Time (in minutes) is 0:05:20.698474
+--------------------------Epoch236-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 236 Loss is 0.053276827668442446
+Epoch 236 - Time (in minutes) is 0:08:10.965726
+--------------------------Epoch237-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 237 Loss is 0.05307235061343199
+Epoch 237 - Time (in minutes) is 0:09:22.793787
+--------------------------Epoch238-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 238 Loss is 0.0531658087169228
+Epoch 238 - Time (in minutes) is 0:09:20.687646
+--------------------------Epoch239-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 239 Loss is 0.05291958964533276
+Epoch 239 - Time (in minutes) is 0:07:05.354042
+--------------------------Epoch240-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 240 Loss is 0.05274137581875122
+Epoch 240 - Time (in minutes) is 0:06:03.061255
+--------------------------Epoch241-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 241 Loss is 0.05308508886864372
+Epoch 241 - Time (in minutes) is 0:06:24.438149
+--------------------------Epoch242-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 242 Loss is 0.05265006793577687
+Epoch 242 - Time (in minutes) is 0:07:31.378067
+--------------------------Epoch243-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 243 Loss is 0.05314616082491828
+Epoch 243 - Time (in minutes) is 0:10:15.624730
+--------------------------Epoch244-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 244 Loss is 0.05277727097272873
+Epoch 244 - Time (in minutes) is 0:07:29.695059
+--------------------------Epoch245-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 245 Loss is 0.05300284938679801
+Epoch 245 - Time (in minutes) is 0:07:14.231164
+--------------------------Epoch246-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 246 Loss is 0.05244289310588167
+Epoch 246 - Time (in minutes) is 0:06:11.931222
+--------------------------Epoch247-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 247 Loss is 0.05254363378911626
+Epoch 247 - Time (in minutes) is 0:06:53.698917
+--------------------------Epoch248-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 248 Loss is 0.05240103713924589
+Epoch 248 - Time (in minutes) is 0:06:20.438240
+--------------------------Epoch249-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 249 Loss is 0.05207599759150564
+Epoch 249 - Time (in minutes) is 0:06:41.798289
+--------------------------Epoch250-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 250 Loss is 0.0520239049946171
+Epoch 250 - Time (in minutes) is 0:06:26.214306
+--------------------------Epoch251-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 251 Loss is 0.051774738030203805
+Epoch 251 - Time (in minutes) is 0:06:47.078404
+--------------------------Epoch252-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 252 Loss is 0.05207770002238891
+Epoch 252 - Time (in minutes) is 0:06:48.389177
+--------------------------Epoch253-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 253 Loss is 0.05256569544766464
+Epoch 253 - Time (in minutes) is 0:06:24.800853
+--------------------------Epoch254-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 254 Loss is 0.05175989345203038
+Epoch 254 - Time (in minutes) is 0:07:06.230657
+--------------------------Epoch255-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 255 Loss is 0.05217275780449116
+Epoch 255 - Time (in minutes) is 0:07:07.873192
+--------------------------Epoch256-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 256 Loss is 0.05181879080539825
+Epoch 256 - Time (in minutes) is 0:06:51.405737
+--------------------------Epoch257-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 257 Loss is 0.0518379237478465
+Epoch 257 - Time (in minutes) is 0:06:21.513124
+--------------------------Epoch258-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 258 Loss is 0.05171922502515752
+Epoch 258 - Time (in minutes) is 0:06:44.232150
+--------------------------Epoch259-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 259 Loss is 0.05092749700826757
+Epoch 259 - Time (in minutes) is 0:06:35.415235
+--------------------------Epoch260-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 260 Loss is 0.05146328101750293
+Epoch 260 - Time (in minutes) is 0:06:44.963221
+--------------------------Epoch261-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 261 Loss is 0.05153000410280976
+Epoch 261 - Time (in minutes) is 0:06:05.772168
+--------------------------Epoch262-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 262 Loss is 0.051368683754326475
+Epoch 262 - Time (in minutes) is 0:06:13.080804
+--------------------------Epoch263-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 263 Loss is 0.05102751235069792
+Epoch 263 - Time (in minutes) is 0:06:19.561230
+--------------------------Epoch264-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 264 Loss is 0.05102018473389881
+Epoch 264 - Time (in minutes) is 0:06:30.411973
+--------------------------Epoch265-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 265 Loss is 0.050838369937017076
+Epoch 265 - Time (in minutes) is 0:06:19.551059
+--------------------------Epoch266-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 266 Loss is 0.05056010246082069
+Epoch 266 - Time (in minutes) is 0:06:06.613574
+--------------------------Epoch267-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 267 Loss is 0.051094650287254184
+Epoch 267 - Time (in minutes) is 0:06:13.910080
+--------------------------Epoch268-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 268 Loss is 0.050967938404262454
+Epoch 268 - Time (in minutes) is 0:06:06.860679
+--------------------------Epoch269-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 269 Loss is 0.050826632039122334
+Epoch 269 - Time (in minutes) is 0:06:04.753947
+--------------------------Epoch270-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 270 Loss is 0.050600987777503485
+Epoch 270 - Time (in minutes) is 0:05:48.130975
+--------------------------Epoch271-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 271 Loss is 0.050781175618370374
+Epoch 271 - Time (in minutes) is 0:05:45.276770
+--------------------------Epoch272-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 272 Loss is 0.05055765362054694
+Epoch 272 - Time (in minutes) is 0:05:42.968232
+--------------------------Epoch273-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 273 Loss is 0.050780002088620775
+Epoch 273 - Time (in minutes) is 0:05:38.265870
+--------------------------Epoch274-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 274 Loss is 0.050077946661831504
+Epoch 274 - Time (in minutes) is 0:05:39.182513
+--------------------------Epoch275-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 275 Loss is 0.05002124626311212
+Epoch 275 - Time (in minutes) is 0:05:38.660593
+--------------------------Epoch276-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 276 Loss is 0.050006087311829615
+Epoch 276 - Time (in minutes) is 0:05:39.860436
+--------------------------Epoch277-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 277 Loss is 0.05064140019658344
+Epoch 277 - Time (in minutes) is 0:05:36.045631
+--------------------------Epoch278-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 278 Loss is 0.05052313469350338
+Epoch 278 - Time (in minutes) is 0:05:37.885183
+--------------------------Epoch279-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 279 Loss is 0.05000965520496072
+Epoch 279 - Time (in minutes) is 0:05:40.345078
+--------------------------Epoch280-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 280 Loss is 0.05022974584519473
+Epoch 280 - Time (in minutes) is 0:05:40.358427
+--------------------------Epoch281-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 281 Loss is 0.04952365533734848
+Epoch 281 - Time (in minutes) is 0:05:39.511516
+--------------------------Epoch282-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 282 Loss is 0.04991835290992182
+Epoch 282 - Time (in minutes) is 0:05:37.768663
+--------------------------Epoch283-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 283 Loss is 0.049650809000812327
+Epoch 283 - Time (in minutes) is 0:05:39.418482
+--------------------------Epoch284-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 284 Loss is 0.04975721047205083
+Epoch 284 - Time (in minutes) is 0:05:36.972528
+--------------------------Epoch285-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 285 Loss is 0.05023755507385419
+Epoch 285 - Time (in minutes) is 0:05:36.009706
+--------------------------Epoch286-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 286 Loss is 0.04951542954088426
+Epoch 286 - Time (in minutes) is 0:05:36.501304
+--------------------------Epoch287-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 287 Loss is 0.04937864840517636
+Epoch 287 - Time (in minutes) is 0:05:39.122999
+--------------------------Epoch288-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 288 Loss is 0.049714502940575285
+Epoch 288 - Time (in minutes) is 0:05:37.400524
+--------------------------Epoch289-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 289 Loss is 0.04942412598947295
+Epoch 289 - Time (in minutes) is 0:05:37.055079
+--------------------------Epoch290-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 290 Loss is 0.049277569144185074
+Epoch 290 - Time (in minutes) is 0:05:38.675353
+--------------------------Epoch291-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 291 Loss is 0.049378561189556434
+Epoch 291 - Time (in minutes) is 0:05:41.656186
+--------------------------Epoch292-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 292 Loss is 0.049241652816923616
+Epoch 292 - Time (in minutes) is 0:05:40.362315
+--------------------------Epoch293-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 293 Loss is 0.04893973435159602
+Epoch 293 - Time (in minutes) is 0:05:44.269799
+--------------------------Epoch294-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 294 Loss is 0.04954403172326244
+Epoch 294 - Time (in minutes) is 0:05:41.739097
+--------------------------Epoch295-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 295 Loss is 0.04903096270327475
+Epoch 295 - Time (in minutes) is 0:05:38.110421
+--------------------------Epoch296-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 296 Loss is 0.04911925973358497
+Epoch 296 - Time (in minutes) is 0:05:38.474454
+--------------------------Epoch297-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 297 Loss is 0.04911411446732244
+Epoch 297 - Time (in minutes) is 0:05:35.638418
+--------------------------Epoch298-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 298 Loss is 0.0488482812845629
+Epoch 298 - Time (in minutes) is 0:05:35.852625
+--------------------------Epoch299-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 299 Loss is 0.048690883372149434
+Epoch 299 - Time (in minutes) is 0:05:36.295642
+--------------------------Epoch300-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 300 Loss is 0.04892654551643562
+Epoch 300 - Time (in minutes) is 0:05:36.421149
+--------------------------Epoch301-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 301 Loss is 0.04861580900653126
+Epoch 301 - Time (in minutes) is 0:05:38.184143
+--------------------------Epoch302-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 302 Loss is 0.04866215667985623
+Epoch 302 - Time (in minutes) is 0:05:38.511508
+--------------------------Epoch303-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 303 Loss is 0.04890211233077875
+Epoch 303 - Time (in minutes) is 0:05:38.064011
+--------------------------Epoch304-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 304 Loss is 0.04900433024988066
+Epoch 304 - Time (in minutes) is 0:05:36.075052
+--------------------------Epoch305-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 305 Loss is 0.04817361889857482
+Epoch 305 - Time (in minutes) is 0:05:40.787489
+--------------------------Epoch306-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 306 Loss is 0.048405302306211075
+Epoch 306 - Time (in minutes) is 0:05:38.560070
+--------------------------Epoch307-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 307 Loss is 0.048387474885660836
+Epoch 307 - Time (in minutes) is 0:05:38.035420
+--------------------------Epoch308-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 308 Loss is 0.048648344725370406
+Epoch 308 - Time (in minutes) is 0:05:39.052182
+--------------------------Epoch309-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 309 Loss is 0.048515539382602654
+Epoch 309 - Time (in minutes) is 0:05:36.594244
+--------------------------Epoch310-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 310 Loss is 0.048105714304579626
+Epoch 310 - Time (in minutes) is 0:05:37.323117
+--------------------------Epoch311-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 311 Loss is 0.04842482628483398
+Epoch 311 - Time (in minutes) is 0:05:38.715575
+--------------------------Epoch312-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 312 Loss is 0.04801824628771131
+Epoch 312 - Time (in minutes) is 0:05:36.570055
+--------------------------Epoch313-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 313 Loss is 0.04784194946386456
+Epoch 313 - Time (in minutes) is 0:05:38.225889
+--------------------------Epoch314-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 314 Loss is 0.04812752070526282
+Epoch 314 - Time (in minutes) is 0:05:39.583950
+--------------------------Epoch315-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 315 Loss is 0.04829180263275025
+Epoch 315 - Time (in minutes) is 0:05:40.260951
+--------------------------Epoch316-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 316 Loss is 0.04752829738350865
+Epoch 316 - Time (in minutes) is 0:05:39.996313
+--------------------------Epoch317-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 317 Loss is 0.04805148165502579
+Epoch 317 - Time (in minutes) is 0:05:38.813100
+--------------------------Epoch318-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 318 Loss is 0.04766257387993772
+Epoch 318 - Time (in minutes) is 0:05:38.666050
+--------------------------Epoch319-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 319 Loss is 0.04775558719107138
+Epoch 319 - Time (in minutes) is 0:05:40.147274
+--------------------------Epoch320-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 320 Loss is 0.04776340826274523
+Epoch 320 - Time (in minutes) is 0:05:40.753222
+--------------------------Epoch321-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 321 Loss is 0.047703580261250725
+Epoch 321 - Time (in minutes) is 0:05:35.932536
+--------------------------Epoch322-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 322 Loss is 0.04756745703859267
+Epoch 322 - Time (in minutes) is 0:05:34.936114
+--------------------------Epoch323-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 323 Loss is 0.04731210739978778
+Epoch 323 - Time (in minutes) is 0:05:39.548506
+--------------------------Epoch324-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 324 Loss is 0.047327973747175504
+Epoch 324 - Time (in minutes) is 0:05:40.661289
+--------------------------Epoch325-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 325 Loss is 0.04710318175527979
+Epoch 325 - Time (in minutes) is 0:05:43.997865
+--------------------------Epoch326-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 326 Loss is 0.04767499538564604
+Epoch 326 - Time (in minutes) is 0:05:55.755384
+--------------------------Epoch327-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 327 Loss is 0.046900207741685164
+Epoch 327 - Time (in minutes) is 0:06:05.983364
+--------------------------Epoch328-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 328 Loss is 0.04698730454189715
+Epoch 328 - Time (in minutes) is 0:06:07.913689
+--------------------------Epoch329-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 329 Loss is 0.04700608370594339
+Epoch 329 - Time (in minutes) is 0:06:09.144655
+--------------------------Epoch330-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 330 Loss is 0.047017795582807144
+Epoch 330 - Time (in minutes) is 0:06:08.737393
+--------------------------Epoch331-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 331 Loss is 0.04731193571260162
+Epoch 331 - Time (in minutes) is 0:06:06.462192
+--------------------------Epoch332-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 332 Loss is 0.046896407212696826
+Epoch 332 - Time (in minutes) is 0:06:02.228736
+--------------------------Epoch333-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 333 Loss is 0.046837552040328384
+Epoch 333 - Time (in minutes) is 0:06:04.135170
+--------------------------Epoch334-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 334 Loss is 0.04726450845988747
+Epoch 334 - Time (in minutes) is 0:06:11.091497
+--------------------------Epoch335-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 335 Loss is 0.04710508582784849
+Epoch 335 - Time (in minutes) is 0:06:09.584842
+--------------------------Epoch336-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 336 Loss is 0.047101415937242944
+Epoch 336 - Time (in minutes) is 0:06:11.590227
+--------------------------Epoch337-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 337 Loss is 0.04711469713768928
+Epoch 337 - Time (in minutes) is 0:05:52.244087
+--------------------------Epoch338-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 338 Loss is 0.04661656676310729
+Epoch 338 - Time (in minutes) is 0:05:36.459145
+--------------------------Epoch339-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 339 Loss is 0.046297833654615615
+Epoch 339 - Time (in minutes) is 0:05:36.163813
+--------------------------Epoch340-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 340 Loss is 0.04678810258316838
+Epoch 340 - Time (in minutes) is 0:05:37.974841
+--------------------------Epoch341-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 341 Loss is 0.04655517003699845
+Epoch 341 - Time (in minutes) is 0:05:39.123887
+--------------------------Epoch342-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 342 Loss is 0.046506957578308444
+Epoch 342 - Time (in minutes) is 0:05:40.388427
+--------------------------Epoch343-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 343 Loss is 0.04654104569865987
+Epoch 343 - Time (in minutes) is 0:05:36.297709
+--------------------------Epoch344-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 344 Loss is 0.04668753044375407
+Epoch 344 - Time (in minutes) is 0:05:38.791092
+--------------------------Epoch345-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 345 Loss is 0.04653942112390901
+Epoch 345 - Time (in minutes) is 0:05:44.893300
+--------------------------Epoch346-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 346 Loss is 0.04634362504957548
+Epoch 346 - Time (in minutes) is 0:06:07.330076
+--------------------------Epoch347-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 347 Loss is 0.046403784777214324
+Epoch 347 - Time (in minutes) is 0:06:10.075622
+--------------------------Epoch348-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 348 Loss is 0.04618438277758804
+Epoch 348 - Time (in minutes) is 0:06:08.995159
+--------------------------Epoch349-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 349 Loss is 0.0462355220239926
+Epoch 349 - Time (in minutes) is 0:06:08.484985
+--------------------------Epoch350-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 350 Loss is 0.04623012286336983
+Epoch 350 - Time (in minutes) is 0:06:10.510257
+--------------------------Epoch351-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 351 Loss is 0.04628883009301681
+Epoch 351 - Time (in minutes) is 0:06:10.271186
+--------------------------Epoch352-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 352 Loss is 0.046044794421375185
+Epoch 352 - Time (in minutes) is 0:06:10.198374
+--------------------------Epoch353-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 353 Loss is 0.046268161607821004
+Epoch 353 - Time (in minutes) is 0:06:07.454732
+--------------------------Epoch354-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 354 Loss is 0.045851507035443204
+Epoch 354 - Time (in minutes) is 0:06:09.102639
+--------------------------Epoch355-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 355 Loss is 0.04601028598358039
+Epoch 355 - Time (in minutes) is 0:06:09.976429
+--------------------------Epoch356-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 356 Loss is 0.04612049279746666
+Epoch 356 - Time (in minutes) is 0:06:08.858478
+--------------------------Epoch357-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 357 Loss is 0.045797062041907526
+Epoch 357 - Time (in minutes) is 0:06:08.743444
+--------------------------Epoch358-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 358 Loss is 0.04597087766415153
+Epoch 358 - Time (in minutes) is 0:06:07.065253
+--------------------------Epoch359-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 359 Loss is 0.04630252148688229
+Epoch 359 - Time (in minutes) is 0:06:07.842638
+--------------------------Epoch360-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 360 Loss is 0.046101279790494956
+Epoch 360 - Time (in minutes) is 0:06:07.840077
+--------------------------Epoch361-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 361 Loss is 0.04627473530134345
+Epoch 361 - Time (in minutes) is 0:06:11.351758
+--------------------------Epoch362-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 362 Loss is 0.04575328968124452
+Epoch 362 - Time (in minutes) is 0:06:08.843403
+--------------------------Epoch363-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 363 Loss is 0.04537330781127892
+Epoch 363 - Time (in minutes) is 0:06:09.822407
+--------------------------Epoch364-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 364 Loss is 0.04549461611443096
+Epoch 364 - Time (in minutes) is 0:06:06.161410
+--------------------------Epoch365-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 365 Loss is 0.04579856535967659
+Epoch 365 - Time (in minutes) is 0:06:10.212319
+--------------------------Epoch366-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 366 Loss is 0.04526542245465166
+Epoch 366 - Time (in minutes) is 0:06:09.430310
+--------------------------Epoch367-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 367 Loss is 0.04558377167563033
+Epoch 367 - Time (in minutes) is 0:06:08.492845
+--------------------------Epoch368-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 368 Loss is 0.04568285860510823
+Epoch 368 - Time (in minutes) is 0:06:04.919601
+--------------------------Epoch369-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 369 Loss is 0.04526793954808728
+Epoch 369 - Time (in minutes) is 0:06:28.749314
+--------------------------Epoch370-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 370 Loss is 0.04523261065771377
+Epoch 370 - Time (in minutes) is 0:07:38.282362
+--------------------------Epoch371-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 371 Loss is 0.04512363485504989
+Epoch 371 - Time (in minutes) is 0:07:37.160012
+--------------------------Epoch372-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 372 Loss is 0.0453742541129293
+Epoch 372 - Time (in minutes) is 0:07:36.575784
+--------------------------Epoch373-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 373 Loss is 0.045159134319892116
+Epoch 373 - Time (in minutes) is 0:07:36.389072
+--------------------------Epoch374-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 374 Loss is 0.04510977861100163
+Epoch 374 - Time (in minutes) is 0:07:37.383352
+--------------------------Epoch375-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 375 Loss is 0.044857260256129156
+Epoch 375 - Time (in minutes) is 0:07:36.815228
+--------------------------Epoch376-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 376 Loss is 0.04479731221993764
+Epoch 376 - Time (in minutes) is 0:07:40.530628
+--------------------------Epoch377-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 377 Loss is 0.045098493579361174
+Epoch 377 - Time (in minutes) is 0:07:39.939026
+--------------------------Epoch378-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 378 Loss is 0.04497079693900993
+Epoch 378 - Time (in minutes) is 0:07:37.719272
+--------------------------Epoch379-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 379 Loss is 0.04510062318416982
+Epoch 379 - Time (in minutes) is 0:07:36.831029
+--------------------------Epoch380-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 380 Loss is 0.04531596856910029
+Epoch 380 - Time (in minutes) is 0:07:37.326174
+--------------------------Epoch381-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 381 Loss is 0.04489625611531189
+Epoch 381 - Time (in minutes) is 0:07:40.292830
+--------------------------Epoch382-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 382 Loss is 0.0446429403754426
+Epoch 382 - Time (in minutes) is 0:07:38.638384
+--------------------------Epoch383-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 383 Loss is 0.04464891221788195
+Epoch 383 - Time (in minutes) is 0:07:39.402859
+--------------------------Epoch384-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 384 Loss is 0.04494152779575267
+Epoch 384 - Time (in minutes) is 0:07:40.004105
+--------------------------Epoch385-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 385 Loss is 0.0449941569318374
+Epoch 385 - Time (in minutes) is 0:07:38.544481
+--------------------------Epoch386-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 386 Loss is 0.04453064256341629
+Epoch 386 - Time (in minutes) is 0:07:40.934587
+--------------------------Epoch387-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 387 Loss is 0.04467357298955808
+Epoch 387 - Time (in minutes) is 0:07:39.466630
+--------------------------Epoch388-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 388 Loss is 0.04445005287629327
+Epoch 388 - Time (in minutes) is 0:07:39.279081
+--------------------------Epoch389-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 389 Loss is 0.04459074572994818
+Epoch 389 - Time (in minutes) is 0:07:40.407665
+--------------------------Epoch390-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 390 Loss is 0.04458212400086565
+Epoch 390 - Time (in minutes) is 0:07:40.979907
+--------------------------Epoch391-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 391 Loss is 0.04458925361239832
+Epoch 391 - Time (in minutes) is 0:07:39.372141
+--------------------------Epoch392-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 392 Loss is 0.044457119949210706
+Epoch 392 - Time (in minutes) is 0:06:27.897089
+--------------------------Epoch393-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 393 Loss is 0.04408976384773364
+Epoch 393 - Time (in minutes) is 0:05:25.861349
+--------------------------Epoch394-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 394 Loss is 0.04415031582652743
+Epoch 394 - Time (in minutes) is 0:05:29.256374
+--------------------------Epoch395-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 395 Loss is 0.04423074222419387
+Epoch 395 - Time (in minutes) is 0:05:25.885077
+--------------------------Epoch396-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 396 Loss is 0.04409238869214759
+Epoch 396 - Time (in minutes) is 0:05:25.541324
+--------------------------Epoch397-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 397 Loss is 0.04432852751776284
+Epoch 397 - Time (in minutes) is 0:05:26.615993
+--------------------------Epoch398-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 398 Loss is 0.044089209110616076
+Epoch 398 - Time (in minutes) is 0:05:28.125404
+--------------------------Epoch399-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 399 Loss is 0.04412316545308415
+Epoch 399 - Time (in minutes) is 0:05:24.539669
+--------------------------Epoch400-----------------------------
+Batch 50/765
+Batch 100/765
+Batch 150/765
+Batch 200/765
+Batch 250/765
+Batch 300/765
+Batch 350/765
+Batch 400/765
+Batch 450/765
+Batch 500/765
+Batch 550/765
+Batch 600/765
+Batch 650/765
+Batch 700/765
+Batch 750/765
+Epoch 400 Loss is 0.043910365809802135
+Epoch 400 - Time (in minutes) is 0:05:23.904647
+Total Time (in minutes) is 1 day, 16:33:36.780857
+All Epochs Loss is
+ [0.22100244236537833, 0.1950739445834378, 0.1778176028744068, 0.16632416426551108, 0.15871033088054531, 0.15428965144297657, 0.1504138656204043, 0.14787220585774752, 0.1457103521410936, 0.14328789309738507, 0.14106234542879403, 0.13892475923681571, 0.13677181934609134, 0.13497361159012988, 0.13292307987127427, 0.13133246697047177, 0.12938924960645976, 0.1277004269505638, 0.12628039568662644, 0.12473717881183999, 0.1234057763530538, 0.12186483808007895, 0.12077071302466923, 0.11980534557228774, 0.11852357372933743, 0.11736695460634294, 0.11617027942846024, 0.11522505525864807, 0.11415520949301376, 0.11346336706401476, 0.11244412990761739, 0.11149645461853033, 0.1108346788614404, 0.10967129964649287, 0.1090932135196293, 0.10823771035164789, 0.1075230637796564, 0.10692518573570875, 0.10591631745006524, 0.1053725914871381, 0.1046010982659128, 0.10342726460079742, 0.10300471790475783, 0.10242544504162533, 0.10124444316317832, 0.10087256555268967, 0.1001840984412268, 0.0991944725704349, 0.09856296301959387, 0.09838337895332598, 0.09721223830787185, 0.09684616050202083, 0.09604893459701071, 0.09531734869176266, 0.09452413360472599, 0.09453228209532943, 0.09378178350481332, 0.09328950050901744, 0.09257889917375994, 0.09174499205904069, 0.09075760297915515, 0.09087463588106866, 0.0905465429076572, 0.08966139449305784, 0.08916338932475233, 0.08844690989532501, 0.08820399987736559, 0.08767190707567471, 0.08726506162605255, 0.08686094554323776, 0.08623733825835528, 0.08580264680428443, 0.0857672026733947, 0.08511682666984259, 0.08470389839578298, 0.08431848545187438, 0.08369001386309761, 0.08333407229944771, 0.08290371398131052, 0.08226538342880267, 0.08170775485778946, 0.08155701429723135, 0.08149391157077808, 0.08105464331757009, 0.0802708457936259, 0.08034847681136692, 0.0798874824313946, 0.07977682989504602, 0.07916475060621118, 0.07874588006072575, 0.0782917935376853, 0.07801088272453913, 0.07753387892168331, 0.07705656230644463, 0.07743674997800316, 0.07702706187866093, 0.07645306542418362, 0.0761744613789655, 0.07597434492477405, 0.07555437296434166, 0.07524146276459195, 0.07478774923806876, 0.07442817725484667, 0.07425469721064848, 0.07352204944183624, 0.0737562861025723, 0.07336554601788521, 0.07335941059624447, 0.07309713110425115, 0.07253477031401559, 0.0721543378056654, 0.07240006117746721, 0.07162929049212169, 0.07182070560802042, 0.07140452805784793, 0.07106447623056523, 0.07044188217107766, 0.07077546876922153, 0.07029468179041264, 0.07011357066678066, 0.06966058057215478, 0.06948295873559378, 0.06930496622534359, 0.06962987662238233, 0.06864829342447075, 0.06846374485130403, 0.06846727084100636, 0.06807507346658145, 0.06821057823748371, 0.06758988402735173, 0.0672217068329356, 0.0668293685207959, 0.06682846959607273, 0.06718819536317408, 0.06635255368998627, 0.066464612272635, 0.06640304767715385, 0.0661169702223703, 0.06580645553524198, 0.06585572617116317, 0.06555612166138257, 0.06506259707746163, 0.06496020013016034, 0.06484119815179724, 0.06443897949324714, 0.06433025499671892, 0.0641690392948054, 0.06440046133071768, 0.06400519987823916, 0.06426865708789015, 0.06381057550509771, 0.06351937754871019, 0.06326971075503655, 0.06301770802416833, 0.06327483680074901, 0.0625779598975688, 0.0623200410818742, 0.06240291360497864, 0.06226567137085534, 0.06240107947899625, 0.06194236160688151, 0.06175678518959899, 0.061878093220050036, 0.06138435421523705, 0.06155472938823544, 0.061323339073291794, 0.06109812392615804, 0.060432710108998554, 0.060609675712542596, 0.060932365103679546, 0.060664302953123264, 0.06076772144319965, 0.0602322736231525, 0.05999793918206801, 0.05998680740107898, 0.05967864037241811, 0.059456687432780764, 0.05944237514502472, 0.05917400838989838, 0.05948016143410034, 0.05882786273274546, 0.05910722925966861, 0.059000915598148615, 0.058685979953193974, 0.05861755400116927, 0.05831978654160219, 0.05844824461668145, 0.05790247143629719, 0.05805793819717722, 0.05781680858310531, 0.057999920896163175, 0.057609830421754736, 0.05789267560527995, 0.057788917748561874, 0.056952000813546524, 0.05765518384675185, 0.05726167736148912, 0.057272793301472474, 0.05683808134369601, 0.05692281875442835, 0.056484089019933556, 0.05665283118392907, 0.056692446631933346, 0.05659292088030211, 0.056203125984547964, 0.05646662875474279, 0.05627598060550643, 0.05550269116373623, 0.05593938961917279, 0.05559724832282347, 0.05578639105546708, 0.055124736002652476, 0.05508545261923394, 0.05539143414181821, 0.05543775548245393, 0.054572048866086534, 0.05467344093702588, 0.05484780415259545, 0.05503322936204914, 0.05504578591074819, 0.05474923684511309, 0.054606980207114436, 0.05462372122588111, 0.05437770927312717, 0.05446333291094287, 0.05428173275895758, 0.0542184135882683, 0.053734790251340744, 0.053713870038783626, 0.05407703265645145, 0.05351275163733102, 0.053408481158754406, 0.05348024488566748, 0.05370589765701808, 0.05317838387746437, 0.053276827668442446, 0.05307235061343199, 0.0531658087169228, 0.05291958964533276, 0.05274137581875122, 0.05308508886864372, 0.05265006793577687, 0.05314616082491828, 0.05277727097272873, 0.05300284938679801, 0.05244289310588167, 0.05254363378911626, 0.05240103713924589, 0.05207599759150564, 0.0520239049946171, 0.051774738030203805, 0.05207770002238891, 0.05256569544766464, 0.05175989345203038, 0.05217275780449116, 0.05181879080539825, 0.0518379237478465, 0.05171922502515752, 0.05092749700826757, 0.05146328101750293, 0.05153000410280976, 0.051368683754326475, 0.05102751235069792, 0.05102018473389881, 0.050838369937017076, 0.05056010246082069, 0.051094650287254184, 0.050967938404262454, 0.050826632039122334, 0.050600987777503485, 0.050781175618370374, 0.05055765362054694, 0.050780002088620775, 0.050077946661831504, 0.05002124626311212, 0.050006087311829615, 0.05064140019658344, 0.05052313469350338, 0.05000965520496072, 0.05022974584519473, 0.04952365533734848, 0.04991835290992182, 0.049650809000812327, 0.04975721047205083, 0.05023755507385419, 0.04951542954088426, 0.04937864840517636, 0.049714502940575285, 0.04942412598947295, 0.049277569144185074, 0.049378561189556434, 0.049241652816923616, 0.04893973435159602, 0.04954403172326244, 0.04903096270327475, 0.04911925973358497, 0.04911411446732244, 0.0488482812845629, 0.048690883372149434, 0.04892654551643562, 0.04861580900653126, 0.04866215667985623, 0.04890211233077875, 0.04900433024988066, 0.04817361889857482, 0.048405302306211075, 0.048387474885660836, 0.048648344725370406, 0.048515539382602654, 0.048105714304579626, 0.04842482628483398, 0.04801824628771131, 0.04784194946386456, 0.04812752070526282, 0.04829180263275025, 0.04752829738350865, 0.04805148165502579, 0.04766257387993772, 0.04775558719107138, 0.04776340826274523, 0.047703580261250725, 0.04756745703859267, 0.04731210739978778, 0.047327973747175504, 0.04710318175527979, 0.04767499538564604, 0.046900207741685164, 0.04698730454189715, 0.04700608370594339, 0.047017795582807144, 0.04731193571260162, 0.046896407212696826, 0.046837552040328384, 0.04726450845988747, 0.04710508582784849, 0.047101415937242944, 0.04711469713768928, 0.04661656676310729, 0.046297833654615615, 0.04678810258316838, 0.04655517003699845, 0.046506957578308444, 0.04654104569865987, 0.04668753044375407, 0.04653942112390901, 0.04634362504957548, 0.046403784777214324, 0.04618438277758804, 0.0462355220239926, 0.04623012286336983, 0.04628883009301681, 0.046044794421375185, 0.046268161607821004, 0.045851507035443204, 0.04601028598358039, 0.04612049279746666, 0.045797062041907526, 0.04597087766415153, 0.04630252148688229, 0.046101279790494956, 0.04627473530134345, 0.04575328968124452, 0.04537330781127892, 0.04549461611443096, 0.04579856535967659, 0.04526542245465166, 0.04558377167563033, 0.04568285860510823, 0.04526793954808728, 0.04523261065771377, 0.04512363485504989, 0.0453742541129293, 0.045159134319892116, 0.04510977861100163, 0.044857260256129156, 0.04479731221993764, 0.045098493579361174, 0.04497079693900993, 0.04510062318416982, 0.04531596856910029, 0.04489625611531189, 0.0446429403754426, 0.04464891221788195, 0.04494152779575267, 0.0449941569318374, 0.04453064256341629, 0.04467357298955808, 0.04445005287629327, 0.04459074572994818, 0.04458212400086565, 0.04458925361239832, 0.044457119949210706, 0.04408976384773364, 0.04415031582652743, 0.04423074222419387, 0.04409238869214759, 0.04432852751776284, 0.044089209110616076, 0.04412316545308415, 0.043910365809802135]

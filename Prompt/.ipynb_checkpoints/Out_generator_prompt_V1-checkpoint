@@ -1,0 +1,16 @@
+cuda:1
+total    : 50962169856
+free     : 54984704
+used     : 50907185152
+Traceback (most recent call last):
+  File "generator_prompt_V1.py", line 176, in <module>
+    model = TimeSeriesTransformer().to(device)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 673, in to
+    return self._apply(convert)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 387, in _apply
+    module._apply(fn)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 409, in _apply
+    param_applied = fn(param)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 671, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: out of memory

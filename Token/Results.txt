@@ -1,0 +1,107 @@
+
+Ideas on how to implement the stop token, which will be helpful in the controllable generation and variable sequence generation for time-series data. (Assuming data is normalized between 0.0 and +1.0)
+V1: Used Tanh with -0.5 as the stop token. (not working)
+V2: Used Tanh with -0.1 as the stop token. (not working)
+V3: Used Modified Sigmoid (1.1*Sigmoid()-0.1) to allow values from (1 to -0.1) (Stop token is -0.05) (not working)
+V4: Same as V3: The loss function without taking mask into account. (not working)
+V5: Don't consider any paddings in the transformer, and learn from the whole data (not working)
+V6: LeakyRelU as activation function with a max of 1 (such as ReLU6)?? Formula: min(max(0,x),1)+0.01*min(0,x) or min(LeakyRelU(x), 1) with end token of (-0.01) (working a little bit)
+Other Ideas:
+- Consider all remaining timesteps to be negatives??
+- Convert the problem domain to NLG using discretization then convert it back to the continuous domain? as in the Music Transformer Paper
+- When generating, stop when (all) features are negative or when (any) feature is negative?
+Question:
+- How to define the stop token for each feature of the last timestep. (So far, I assumed it's the same for all of the 9 features) --> In reality, some features turn to negative early before other features.
+
+
+======================================================================================================================================================================================================
+Token Results:
+
+
+Without using activation:
+The validation error was too high: 
+All output was containing at least one negative like that, so just outputs two timesteps
+
+
+V2: Use sigmoid function and use end token where all the values are the same and in the data range (i.e. end token is vector of 0.1) (only stop if all are 0.1 with some precision) (not working)
+V3.1: Denormalize the GCUT data using the logit function, and use (50) as end token (Training is not stable at all, and oscillating)
+
+V4: Use new output2, to classify each timestep as start or real, the input is (n_samples, 400, 9) --> (n_samples, 400, 3). (v_num=36) (GENERATING)
+V5: Use new output2,  to classify each timestep as start or real, the input is Sigmoid(n_samples, 400, 9) --> (n_samples, 400, 3). (Not Working) (The loss is alreaduy high at the beginning)
+
+V6: Similar as V4, but let's use (n_samples, 400, d_model ) --> (n_samples, 400, 3) (Not Working)  
+V7: If V6 is not working, then what about using the masked cross entropy loss (Not Working at all)
+V7.2: Use the wonderful function called torch.masked_select 
+
+V8: Train a model (ex: , then use use the pretrained model to add a final layer and fine-tune)
+
+V9: Use the pre-trained model (transformer_allV3) and add a layer at the end that will flatten and output n_classes = 400 --> IT's working very well, but then it requires to be trained on different paddings masks each time. The results are impressive if we feed the data as it, but when generating and just the first two time steps, then it cannot learn very well. [WORKING]
+
+V9.1: [WE SHOULD TAKE INTO CONSIDERATION ALL THE TIMESTEPS, NOT ONLY THE FIRST TWO]
+We are going to let the model classify based on only the first two time steps and ignore all others by padding them, hence when we generate it will be the same as what it was trained on. [WORKING]
+PATH: /rdata/yelnady/DoppelGANger/Token/lightning_logs/version_108/checkpoints/epoch=2-step=575.ckpt
+model.OutputLinear  = nn.Sequential(nn.Flatten(1),nn.Linear(256*400,400) )
+
+
+V9.2: Working but high number of parameters that cannot be loaded to the memory, so consider decreasing their numbers, the best MSE after 100 epochs was 0.5901041030883789 lightning_logs/version_120/checkpoints/epoch=99-step=19199.ckpt
+model.OutputLinear  = nn.Sequential(nn.Flatten(1),nn.Linear(256*400,1024),nn.ReLU(),nn.Linear(1024,400) )
+
+transformer_allV3 PATH: ../lightning_logs/version_19/checkpoints/epoch=399-step=76799.ckpt
+
+
+V9.2: We reduced the dimensiosn to only work on 2 timesteps by just feeding those 2 timesteps, then # of params reduced but took longer time in training: --> lightning_logs/version_127/checkpoints/epoch=299-step=57599.ckpt
+
+V10: 
+- Feed Only data (real-valued), have two linear outputs, one is softmax as a classifier --> The last one is end token, another class --> We will discretize (Is it shifted or not)
+- We will need also to have the real-valued data outputted.
+- We need to see how to combine the nine features using mean.
+
+- The best MSE without Sigmoid (Forgot) is 0.06662553548812866 to  0.10238373279571533 (not getting  better), and alternating a lot.
+
+--Batch First Generator with all the modifications
+- #of bins is 300
+
+V10.1: Exactly as V10, but let's try with # of bins =60 (and sum instead of mean)
+
+V10.1_masked: Masked Cross Entropy
+
+
+V10.2: (Pretrained) (mean not sum) (Loss without mask)  (All previous ones, I forgot to use masked cross_entropy) (Feed Input as NLP)
+- Use the trained version --> transformer_allV3 PATH: ../lightning_logs/version_19/checkpoints/epoch=399-step=76799.ckpt
+- Keep the decoder weights, and replace linear with embedding and last layer also replaced --> Let's try the output
+
+V10.3: (Pretrained) (Feed Real) (Loss with mask) 
+
+V10.4: (Ignore Index) (not pretrained) (quantile) (100 maybe is enough) (If you have nlp and real --> Don't miss with the learning rate)
+
+
+What to do next: 
+- It seems that 10 classes (8) is enough and improving but for 400 or 500 epochs.
+- I want to check if 500/600 epochs will make it much better.
+
+- I want to see if we did version 10.5, where the NLP is part of the data, Would that be better or not?
+
+
+V10.5
+Combine the NLP (normalized) as part of the data (10th feature) --> Use sigmoid to get the loss, we used the threshold to be 0.8 or larger (num_classes = 20)
+From Epoch 300 to 400 --> Loss:  0.0013957507908344269 
+Epoch 9 the loss was 0.003446450224146247
+
+The same V10.5, I am trying again with n_heads = 16, and num_classes = 10
+
+V11:
+I made a nlp transformer only where we have the values there discrete by multiplying the mean by 10**3 and converting it to integers, then making vocabulary to have n_classes from 0 to ..., and we added end token and padding token. Inshallah working
+lr is normal, lower is worse
+
+
+V11.1 --> 
+
+We didn't ignore the padding, we train for everything and consider the whole series.
+
+--> V11.1: ck = torch.load('lightning_logs/version_80/checkpoints/epoch=399-step=76799.ckpt')['state_dict']
+
+
+
+---------------------------------We want to try saving the whole model, not just the weights----------------------------------
+
+

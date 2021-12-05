@@ -1,0 +1,225 @@
+total    : 25396838400
+free     : 25384517632
+used     : 12320768
+X Features
+Feature: 1  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 2  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 3  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 4  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 5  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 6  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 7  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 8  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 9  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+
+Y Features
+Feature: 1  -- Normalization: None  -- gen_flag: False  -- Dim: 4
+/rhome/yelnady/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 16 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+/rhome/yelnady/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 64 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/utilities/distributed.py:52: UserWarning: you defined a validation_step but have no val_dataloader. Skipping validation loop
+  warnings.warn(*args, **kwargs)
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0,1]
+initializing ddp: GLOBAL_RANK: 0, MEMBER: 1/2
+/rhome/yelnady/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 16 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+/rhome/yelnady/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 64 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+LOCAL_RANK: 1 - CUDA_VISIBLE_DEVICES: [0,1]
+initializing ddp: GLOBAL_RANK: 1, MEMBER: 2/2
+2021-06-03 14:55:11.442346: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2021-06-03 14:55:11.442371: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+
+  | Name                | Type               | Params
+-----------------------------------------------------------
+0 | PromptLinear        | Linear             | 1.3 K 
+1 | InputLinear         | Linear             | 2.6 K 
+2 | positional_encoding | PositionalEncoding | 0     
+3 | transformer_encoder | TransformerEncoder | 3.2 M 
+4 | OutputLinear        | Linear             | 2.3 K 
+5 | activation          | Sigmoid            | 0     
+-----------------------------------------------------------
+3.2 M     Trainable params
+0         Non-trainable params
+3.2 M     Total params
+12.689    Total estimated model params size (MB)
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check: 0it [00:00, ?it/s]                                           /rhome/yelnady/.local/lib/python3.6/site-packages/torch/utils/data/dataloader.py:477: UserWarning: This DataLoader will create 16 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  cpuset_checked))
+Training: 0it [00:00, ?it/s]Training:   0%|          | 0/12 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/12 [00:00<?, ?it/s] total    : 25396838400
+free     : 25384517632
+used     : 12320768
+X Features
+Feature: 1  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 2  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 3  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 4  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 5  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 6  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 7  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 8  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+Feature: 9  -- Normalization: Normalization.ZERO_ONE  -- gen_flag: False  -- Dim: 1
+
+Y Features
+Feature: 1  -- Normalization: None  -- gen_flag: False  -- Dim: 4
+Epoch 0:   0%|          | 0/12 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "transformer_prompt_V3.py", line 330, in <module>
+    main()
+  File "transformer_prompt_V3.py", line 325, in main
+    trainer.fit(model,train_dataloader)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 499, in fit
+    self.dispatch()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 546, in dispatch
+    self.accelerator.start_training(self)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 73, in start_training
+    self.training_type_plugin.start_training(trainer)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 114, in start_training
+    self._results = trainer.run_train()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 637, in run_train
+    self.train_loop.run_training_epoch()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 492, in run_training_epoch
+    batch_output = self.run_training_batch(batch, batch_idx, dataloader_idx)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 654, in run_training_batch
+    self.optimizer_step(optimizer, opt_idx, batch_idx, train_step_and_backward_closure)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 433, in optimizer_step
+    using_lbfgs=is_lbfgs,
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/lightning.py", line 1390, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/optimizer.py", line 214, in step
+    self.__optimizer_step(*args, closure=closure, profiler_name=profiler_name, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/optimizer.py", line 134, in __optimizer_step
+    trainer.accelerator.optimizer_step(optimizer, self._optimizer_idx, lambda_closure=closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 277, in optimizer_step
+    self.run_optimizer_step(optimizer, opt_idx, lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 282, in run_optimizer_step
+    self.training_type_plugin.optimizer_step(optimizer, lambda_closure=lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 163, in optimizer_step
+    optimizer.step(closure=lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    return func(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/optim/adam.py", line 66, in step
+    loss = closure()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 649, in train_step_and_backward_closure
+    split_batch, batch_idx, opt_idx, optimizer, self.trainer.hiddens
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 742, in training_step_and_backward
+    result = self.training_step(split_batch, batch_idx, opt_idx, hiddens)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 293, in training_step
+    training_step_output = self.trainer.accelerator.training_step(args)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 156, in training_step
+    return self.training_type_plugin.training_step(*args)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 297, in training_step
+    return self.model(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 705, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/overrides/base.py", line 48, in forward
+    output = self.module.training_step(*inputs, **kwargs)
+  File "transformer_prompt_V3.py", line 261, in training_step
+    Y_predicted = self(X,y_one_hot,src_mask,padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "transformer_prompt_V3.py", line 250, in forward
+    output = self.transformer_encoder(src, src_mask,padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 181, in forward
+    output = mod(output, src_mask=mask, src_key_padding_mask=src_key_padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 294, in forward
+    key_padding_mask=src_key_padding_mask)[0]
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/activation.py", line 987, in forward
+    attn_mask=attn_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 4810, in multi_head_attention_forward
+    attn_output = torch.bmm(attn_output_weights, v)
+RuntimeError: CUDA out of memory. Tried to allocate 402.00 MiB (GPU 0; 23.65 GiB total capacity; 18.08 GiB already allocated; 254.19 MiB free; 18.39 GiB reserved in total by PyTorch)
+Traceback (most recent call last):
+  File "/rdata/yelnady/DoppelGANger/Prompt/transformer_prompt_V3.py", line 330, in <module>
+    main()
+  File "/rdata/yelnady/DoppelGANger/Prompt/transformer_prompt_V3.py", line 325, in main
+    trainer.fit(model,train_dataloader)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 499, in fit
+    self.dispatch()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 546, in dispatch
+    self.accelerator.start_training(self)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 73, in start_training
+    self.training_type_plugin.start_training(trainer)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 114, in start_training
+    self._results = trainer.run_train()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/trainer.py", line 637, in run_train
+    self.train_loop.run_training_epoch()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 492, in run_training_epoch
+    batch_output = self.run_training_batch(batch, batch_idx, dataloader_idx)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 654, in run_training_batch
+    self.optimizer_step(optimizer, opt_idx, batch_idx, train_step_and_backward_closure)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 433, in optimizer_step
+    using_lbfgs=is_lbfgs,
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/lightning.py", line 1390, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/optimizer.py", line 214, in step
+    self.__optimizer_step(*args, closure=closure, profiler_name=profiler_name, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/core/optimizer.py", line 134, in __optimizer_step
+    trainer.accelerator.optimizer_step(optimizer, self._optimizer_idx, lambda_closure=closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 277, in optimizer_step
+    self.run_optimizer_step(optimizer, opt_idx, lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 282, in run_optimizer_step
+    self.training_type_plugin.optimizer_step(optimizer, lambda_closure=lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 163, in optimizer_step
+    optimizer.step(closure=lambda_closure, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    return func(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/optim/adam.py", line 66, in step
+    loss = closure()
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 649, in train_step_and_backward_closure
+    split_batch, batch_idx, opt_idx, optimizer, self.trainer.hiddens
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 742, in training_step_and_backward
+    result = self.training_step(split_batch, batch_idx, opt_idx, hiddens)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/trainer/training_loop.py", line 293, in training_step
+    training_step_output = self.trainer.accelerator.training_step(args)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/accelerators/accelerator.py", line 156, in training_step
+    return self.training_type_plugin.training_step(*args)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/plugins/training_type/ddp.py", line 297, in training_step
+    return self.model(*args, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 705, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/pytorch_lightning/overrides/base.py", line 48, in forward
+    output = self.module.training_step(*inputs, **kwargs)
+  File "/rdata/yelnady/DoppelGANger/Prompt/transformer_prompt_V3.py", line 261, in training_step
+    Y_predicted = self(X,y_one_hot,src_mask,padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rdata/yelnady/DoppelGANger/Prompt/transformer_prompt_V3.py", line 250, in forward
+    output = self.transformer_encoder(src, src_mask,padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 181, in forward
+    output = mod(output, src_mask=mask, src_key_padding_mask=src_key_padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/transformer.py", line 294, in forward
+    key_padding_mask=src_key_padding_mask)[0]
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/modules/activation.py", line 987, in forward
+    attn_mask=attn_mask)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 4636, in multi_head_attention_forward
+    q, k, v = linear(query, in_proj_weight, in_proj_bias).chunk(3, dim=-1)
+  File "/rhome/yelnady/.local/lib/python3.6/site-packages/torch/nn/functional.py", line 1753, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA out of memory. Tried to allocate 1.18 GiB (GPU 1; 23.65 GiB total capacity; 21.13 GiB already allocated; 963.56 MiB free; 21.58 GiB reserved in total by PyTorch)

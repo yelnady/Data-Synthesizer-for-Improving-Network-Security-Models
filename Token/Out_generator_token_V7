@@ -1,0 +1,30 @@
+cuda:0
+total    : 25396838400
+free     : 21214330880
+used     : 4182507520
+
+generator_token_V7.py:211: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  if F.softmax(aux_predicted[-1]).argmax().item() == 2:
+0/3125
+100/3125
+200/3125
+300/3125
+400/3125
+500/3125
+600/3125
+700/3125
+800/3125
+900/3125
+1000/3125
+1100/3125
+1200/3125
+1300/3125
+1400/3125
+1500/3125
+1600/3125
+1700/3125
+1800/3125
+1900/3125
+2000/3125
+2100/3125
+2200/3125

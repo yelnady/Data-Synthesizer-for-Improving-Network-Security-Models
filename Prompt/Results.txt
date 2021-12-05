@@ -1,0 +1,11 @@
+V1 is 512, 1 seed from data, train accuracy is 0.95 and test accuracy is 0.5128, and min train MSE is 0.029771
+
+V2 is 256 using PL, dpp, train accuracy is 0.986, and test accuracy is 0.4983, and min train MSE is 0.0283 and 0.0292
+
+V3 is 128 datapoints in batch, 256 the dim size, and 16 heads per layer, train accuracy is 0.992, and test accuracy is 0.3910, and min train MSE is 0.01364
+
+V3 again using 2 seeds is 
+
+
+
+If train_dataloader is 'num_workers':32 ,'batch_size':256, then climber 5 will be almost full 

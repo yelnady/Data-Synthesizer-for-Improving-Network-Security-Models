@@ -1,0 +1,30 @@
+cuda:0
+total    : 50962169856
+free     : 42991026176
+used     : 7971143680
+
+0/3125
+Traceback (most recent call last):
+  File "generator_prompt_V3.py", line 268, in <module>
+    generate_dataset(real_train_X0 ,real_train_Y0, real_train_Y_labels0 ,padding_mask0,n_seed=n_seed,n_samples=real_train_X0.size(0),max_length=max_length)
+  File "generator_prompt_V3.py", line 231, in generate_dataset
+    predicted = model(datapoint.to(device), y.to(device), src_mask.to(device),mask.to(device))# [S,B,E] --> We want just the predicted timestep S
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "generator_prompt_V3.py", line 169, in forward
+    output = self.transformer_encoder(src, src_mask,padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/transformer.py", line 181, in forward
+    output = mod(output, src_mask=mask, src_key_padding_mask=src_key_padding_mask)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/transformer.py", line 293, in forward
+    src2 = self.self_attn(src, src, src, attn_mask=src_mask,
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/modules/activation.py", line 980, in forward
+    return F.multi_head_attention_forward(
+  File "/rhome/yelnady/.local/lib/python3.8/site-packages/torch/nn/functional.py", line 4790, in multi_head_attention_forward
+    attn_output_weights = torch.bmm(q, k.transpose(1, 2))
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 47.46 GiB total capacity; 37.89 GiB already allocated; 19.12 MiB free; 43.06 GiB reserved in total by PyTorch)
